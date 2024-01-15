@@ -20,5 +20,3 @@
 <p>Actual programming and integration of these components will be done using a microcontroller programming language, such as C for PIC microcontrollers.</p>
 
 
-<P>Feel free to modify the text according to your specific needs or add any additional details about your project.</P>
-
