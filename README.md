@@ -17,6 +17,6 @@
 
 <h3>Project Implementation:</h3>
 <p>The system will use the matrix keypad for access code entry, the stepper motor to control the entrance door lock, and the LCD screen to display messages and system status. The LM35 temperature sensor will provide temperature data. The EEPROM memory will store the correct access code, and the "CHANGE" push-button will be used to enter code modification mode.</p>
-<p>Actual programming and integration of these components will be done using a microcontroller programming language, such as C for PIC microcontrollers.</p>
+<p>Actual programming and integration of these components will be done using a microcontroller programming language, such as C for PIC microcontrollers and MicroC for compiling the programme.</p>
 
 
